@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+.font{
+    font-family: Alata;
+    font-size: 14pt;
+    letter-spacing: .1rem;
+}
+.nav-link{
+    color: black;
+}
+a {
+    cursor: pointer;
+}
